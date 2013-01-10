@@ -3,4 +3,4 @@ set -e
 
 DIR=$( cd $( dirname "${BASH_SOURCE[0]}" ) && pwd )
 
-dart AllTests.dart
+dart tests/AllTests.dart
