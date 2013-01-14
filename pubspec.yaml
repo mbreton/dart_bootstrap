@@ -3,4 +3,5 @@ description: Skeleton of dart application to start Dart in the cloud
 
 dependencies:
 #  js: any
+#  browser: any
   unittest: { sdk: unittest }

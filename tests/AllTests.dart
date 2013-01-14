@@ -7,7 +7,7 @@ void main() {
   group ("Publisher", (){
     
     test("Assert that unittest lib works", (){
-      expect(true,isTrue);
+      expect(false,isTrue);
     });
   });
 }
