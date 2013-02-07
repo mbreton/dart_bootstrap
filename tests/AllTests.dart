@@ -5,7 +5,6 @@ void main() {
   useVMConfiguration();
 
   group ("Tests", (){
-
     test("Assert that unittest lib works", (){
       expect(true,isTrue);
     });
