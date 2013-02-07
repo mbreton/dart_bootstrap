@@ -2,10 +2,10 @@ import 'package:unittest/unittest.dart';
 import 'package:unittest/vm_config.dart';
 
 void main() {
-  useVmConfiguration();
+  useVMConfiguration();
 
-  group ("Publisher", (){
-    
+  group ("Tests", (){
+
     test("Assert that unittest lib works", (){
       expect(true,isTrue);
     });
