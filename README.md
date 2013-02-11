@@ -1,6 +1,6 @@
 ## Integration Tests
 
-[![](https://drone.io/mbreton/Dart_Bootstrap/status.png)](https://drone.io/mbreton/Dart_Bootstrap/latest)
+[![Build Status](https://drone.io/github.com/mbreton/dart_bootstrap/status.png)](https://drone.io/github.com/mbreton/dart_bootstrap/latest)
 
 ## Demos
 
